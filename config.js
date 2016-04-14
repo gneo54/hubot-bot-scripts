@@ -1,4 +1,5 @@
 var config = {
-  'weatherIOapiKey': ''  
+  'weatherIOapiKey': '',
+  'blogPostRSSURL': ''
 }
 module.exports = config;
